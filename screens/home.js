@@ -8,6 +8,7 @@ import{
 } from 'react-native'
 import { ListItem } from 'react-native-elements'
 
+
 class Home extends Component{
 
 	constructor(props){
